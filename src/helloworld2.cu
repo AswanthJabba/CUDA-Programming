@@ -6,7 +6,7 @@ __global__ void print_from_gpu(void) {
 
 int main(void) {
  printf("Hello World from host!\n");
- print_from_gpu<<<10,2>>>(); // first parameter is number of Blocks, second parameter is number of threads 
+ print_from_gpu<<<10,2>>>(); 
  cudaDeviceSynchronize();
  return 0;
 }
