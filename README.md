@@ -8,5 +8,5 @@ This is repository is about CUDA programming, you can find examples of different
 ## Installation of CUDA-toolkit (UBUNTU)
 
 
-Please follow these [Installation Guide](https://developer.nvidia.com/cuda-downloads) 
+Please follow this [Installation Guide](https://developer.nvidia.com/cuda-downloads) 
 </br>
