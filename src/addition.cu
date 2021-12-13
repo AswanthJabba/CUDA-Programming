@@ -1,5 +1,5 @@
 /*
-This CUDA program performs addition using kernel function 
+This is a simple CUDA program which performs addition using GPU (kernel function) 
 */
 #include<stdio.h>
 __global__ void add(int a, int b, int *d_c)
