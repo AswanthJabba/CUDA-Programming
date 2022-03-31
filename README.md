@@ -5,7 +5,7 @@ This is repository is about CUDA programming, you can find examples of different
   <img align="left" width="180px" src="https://github.com/AswanthJabba/CUDA-Programming/blob/main/assets/Cuda.png"/>
 </a>
 </br></br></br></br></br></br>
-## Installation of CUDA-toolkit (UBUNTU)
+## Installation of CUDA-toolkit
 
 
 Please follow this [Installation Guide](https://developer.nvidia.com/cuda-downloads) 
